@@ -2,8 +2,7 @@
 Implementations of Coursera Reinforcement Learning Specialization.
 
 <center>The structure of this specialization:</center>
-
-<img src="mind_map.png" alt="drawing", width = 1418px, height = 509 px/>
+<img src="mind_map.jpg" alt="drawing"/, width = 1418px, height = 509px>
 
 
 
@@ -13,7 +12,7 @@ Implementations of Coursera Reinforcement Learning Specialization.
 
 * Assignment: [K-armed Bandits and Exploration/Exploitation](C1-Fundamentals/k-armed-bandit)
 
-**Week 3: Value Functions $ Bellman Equations**
+**Week 3: Value Functions & Bellman Equations**
 
 * No assignment
 
