@@ -45,5 +45,12 @@ Implementations of Coursera Reinforcement Learning Specialization.
 
 * Assignment: [Semi-gradient TD(0) with Stage Aggregation](C3-Function_Approximation/Semi_Gradient_TD)
 
+**Week 2: Constructing Features for Prediction**
+
+* Assignment: [Semi-gradient TD with a Neural Network](C3-Function_Approximation/Feature_Construction)
+
+
 
 ## 4. A Complete Reinforcement Learning System (Capstone)
+
+
