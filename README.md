@@ -49,6 +49,9 @@ Implementations of Coursera Reinforcement Learning Specialization.
 
 * Assignment: [Semi-gradient TD with a Neural Network](C3-Function_Approximation/Feature_Construction)
 
+**Week 3: Function Approximation and Control**
+
+* Assignment: [Episodic Sarsa with Function Approximation and tile coding](C3-Function_Approximation/Control_With_Function_Approximation)
 
 
 ## 4. A Complete Reinforcement Learning System (Capstone)
