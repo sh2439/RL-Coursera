@@ -51,7 +51,11 @@ Implementations of Coursera Reinforcement Learning Specialization.
 
 **Week 3: Function Approximation and Control**
 
-* Assignment: [Episodic Sarsa with Function Approximation and tile coding](C3-Function_Approximation/Control_With_Function_Approximation)
+* Assignment: [Episodic Sarsa with Function Approximation and Tile-coding](C3-Function_Approximation/Control_With_Function_Approximation)
+
+**Week 4: Policy Gradient**
+
+* Assignment: [Average Reward Softmax Actor-Critic with Tile-coding](C3-Function_Approximation/Policy_Gradient)
 
 
 ## 4. A Complete Reinforcement Learning System (Capstone)
