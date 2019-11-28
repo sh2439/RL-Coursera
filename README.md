@@ -64,5 +64,7 @@ Implementations of Coursera Reinforcement Learning Specialization.
 
 * Assignment: [Build the Lunar Lander Agent](C4-LunarLander_Proj/LunarLander_Agent)
 
+* Assignment: [Parameter Study](C4-LunarLander_Proj/Parameter_Study)
+
 
 
